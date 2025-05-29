@@ -1,0 +1,6 @@
+path: "/home/paula/Documentos/PAULA/NOVENO SEMESTRE/imagenes/superresolution/dataset/19_dic_2024_test_area_1cm"
+train: 
+val: dataset
+test: dataset
+nc: 1
+names: [frailejon]
