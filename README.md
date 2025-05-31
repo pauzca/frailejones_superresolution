@@ -20,6 +20,7 @@ La estructura del proyecto es:
 ├── /inferencia_Superresolucion.ipynb      # Inferencia de imágenes del dataset de prueba con superresolución
 ├── /deteccion_superresolucion.ipynb       # Notebook con pruebas de deteccion
 ├── /reporte_escrito.pdf                   # Reporte escrito del proyecto
+├── /Proyecto Procesamiento de imagenes.pdf                   # Diapositivas para la presentación
 └── /rename_super_files.py                 # Script para renombrar archivos de inferencia con superresolucion 
 
 ```
