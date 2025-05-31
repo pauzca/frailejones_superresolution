@@ -23,3 +23,6 @@ La estructura del proyecto es:
 └── /rename_super_files.py                 # Script para renombrar archivos de inferencia con superresolucion 
 
 ```
+
+Enlace a repositorio de github: https://github.com/pauzca/frailejones_superresolution
+Enlace a google drive con el resto de los archivos que no subimos aqui: https://drive.google.com/drive/folders/1cwaX2VbHfEs48CPEInn4MqKlQrLeDKnl?usp=sharing
